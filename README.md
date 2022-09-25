@@ -1,2 +1,2 @@
 # TeleComm_User_cluster
-This is a group project for data mining class.
+This is a group project for the data mining class.
